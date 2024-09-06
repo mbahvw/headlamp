@@ -163,7 +163,7 @@
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.1",
     "electron-log": "^4.4.1",
-    "electron-wix-msi": "^4.0.0",
+    "electron-wix-msi": "^5.1.0",
     "find-process": "^1.4.7",
     "i18next": "^20.6.1",
     "i18next-fs-backend": "^2.1.1",
